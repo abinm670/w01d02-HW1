@@ -24,7 +24,7 @@ b is true
 ```
 - What is `c`?
 ```
-c is 1
+c is 'bongos'
 ```
 
 #### Exercise 2:
@@ -132,10 +132,12 @@ Here is a message:<br/>
  Write your javascript solution below
 ```js
 // your answer here
-let firstName = "Sara";
-let interest = "cats";
-let hobby = "movies";
-```
+let firstName = "Abdullah";
+let interest = "Coding";
+let hobby = "Reading";
+
+console.log("Hi, my name is "+ firstName +". I love "+ interest + ". In my spare time, I like " + hobbyls)
+
 
 ## Conditionals
 
